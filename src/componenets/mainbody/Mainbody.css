@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+}
+.flexBody {
+  margin-left: 0px;
+  display: flex;
+}
+.totalIncome {
+  font-size: 30px;
+}
